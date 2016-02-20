@@ -1,0 +1,8 @@
+style "default"
+{
+	
+	bg_pixmap[NORMAL] = "10.png"
+	font_name = "12"
+}
+class "GtkWidget" style "default"
+
